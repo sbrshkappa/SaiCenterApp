@@ -1,5 +1,5 @@
 //
-//  HomeViewController.swift
+//  SettingsViewController.swift
 //  SaiCenter
 //
 //  Created by Sabareesh Kappagantu on 9/2/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class HomeViewController: UIViewController {
+class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
